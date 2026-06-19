@@ -1,0 +1,18 @@
+package kodnest_java;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Employee e1 = new Employee();
+		System.out.println(e1.id=12);
+		System.out.println(e1.name= "Raja");
+		e1.work();
+		
+		Employee e2=new Employee();
+		System.out.println(e2.id=77);
+		System.out.println(e2.name="Rani");
+		
+	}
+
+}
