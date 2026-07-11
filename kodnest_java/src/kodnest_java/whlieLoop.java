@@ -9,6 +9,10 @@ public class whlieLoop {
 			System.out.println(i);
 			i++;
 		}
+//		while(true) {
+//			System.out.println(i);
+//			i++;
+//		}
 	}
 
 }
