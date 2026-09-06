@@ -9,7 +9,7 @@ public class LabeledLoop {
 				for(int j = 1; j <= 5 ; j++) {
 					if (i*j > 10) {
 						System.out.println("Breaking out of both loops!");
-						continue outerLoop;
+						break outerLoop;
 					}
 					System.out.println("i: " + i + ", j: " + j + " i*j: " + i*j);
 				}
