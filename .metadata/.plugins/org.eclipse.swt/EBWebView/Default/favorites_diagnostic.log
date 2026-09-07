@@ -87,3 +87,73 @@
 2026-09-06 03:56:16.560: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-06 03:56:16.560: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-06 06:37:51.135: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-06 08:32:56.249: [INFO] CurrentProfilePath: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-06 08:32:56.249: [INFO] Profiles total count: 1
+2026-09-06 08:32:56.249: [INFO] Profile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-06 08:32:56.249: [INFO] LastUsedProfileDir: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-06 08:32:56.249: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-06 08:32:56.249: [INFO] OnDoneLoading sync enabled: 0
+2026-09-06 08:32:56.249: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-06 08:32:56.249: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-06 08:32:56.249: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-06 08:32:59.344: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-06 09:08:15.522: [INFO] CurrentProfilePath: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-06 09:08:15.522: [INFO] Profiles total count: 1
+2026-09-06 09:08:15.522: [INFO] Profile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-06 09:08:15.522: [INFO] LastUsedProfileDir: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-06 09:08:15.522: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-06 09:08:15.522: [INFO] OnDoneLoading sync enabled: 0
+2026-09-06 09:08:15.522: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-06 09:08:15.522: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-06 09:08:15.522: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-06 09:35:47.292: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-06 15:03:22.848: [INFO] CurrentProfilePath: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-06 15:03:22.848: [INFO] Profiles total count: 1
+2026-09-06 15:03:22.848: [INFO] Profile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-06 15:03:22.848: [INFO] LastUsedProfileDir: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-06 15:03:22.848: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-06 15:03:22.848: [INFO] OnDoneLoading sync enabled: 0
+2026-09-06 15:03:22.848: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-06 15:03:22.848: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-06 15:03:22.848: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-06 16:00:17.581: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 03:22:56.098: [INFO] CurrentProfilePath: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 03:22:56.098: [INFO] Profiles total count: 1
+2026-09-07 03:22:56.098: [INFO] Profile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-07 03:22:56.098: [INFO] LastUsedProfileDir: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 03:22:56.098: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-07 03:22:56.098: [INFO] OnDoneLoading sync enabled: 0
+2026-09-07 03:22:56.098: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-07 03:22:56.098: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-07 03:22:56.098: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 03:22:57.451: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 03:23:07.091: [INFO] CurrentProfilePath: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 03:23:07.091: [INFO] Profiles total count: 1
+2026-09-07 03:23:07.091: [INFO] Profile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-07 03:23:07.091: [INFO] LastUsedProfileDir: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 03:23:07.091: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-07 03:23:07.091: [INFO] OnDoneLoading sync enabled: 0
+2026-09-07 03:23:07.091: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-07 03:23:07.091: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-07 03:23:07.091: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 03:23:07.145: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 03:23:42.182: [INFO] CurrentProfilePath: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 03:23:42.182: [INFO] Profiles total count: 1
+2026-09-07 03:23:42.182: [INFO] Profile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-07 03:23:42.182: [INFO] LastUsedProfileDir: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 03:23:42.182: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-07 03:23:42.182: [INFO] OnDoneLoading sync enabled: 0
+2026-09-07 03:23:42.182: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-07 03:23:42.182: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-07 03:23:42.182: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 03:23:51.491: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 03:26:33.803: [INFO] CurrentProfilePath: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 03:26:33.803: [INFO] Profiles total count: 1
+2026-09-07 03:26:33.803: [INFO] Profile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-07 03:26:33.803: [INFO] LastUsedProfileDir: C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 03:26:33.803: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\cranj\eclipse-workspace\ranjitha\May\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-05-26T11:01:54.140Z
+2026-09-07 03:26:33.803: [INFO] OnDoneLoading sync enabled: 0
+2026-09-07 03:26:33.803: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-07 03:26:33.803: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-07 03:26:33.803: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 03:29:47.588: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
