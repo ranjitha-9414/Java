@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int size = sc.nextInt();
+		int a[] = new int[size];
+		for(int i = 0; i< a.length;i++) {
+			a[i] = sc.nextInt();
+		}
+		int min = a[0];
+		for(int i = 0; i<a.length;i++) {
+			if(a[i]< min) {
+				min = a[i];
+			}
+		}
+		System.out.print("array: [");
+		for(int i = 0; i<a.length;i++) {
+			if(i < a.length-1) {
+				System.out.print(a[i] + ", ");
+			} else {
+				System.out.print(a[i]);
+			}
+		}
+		System.out.println("]");
+		System.out.println("Min: " + min);
+	}
+	
+}
