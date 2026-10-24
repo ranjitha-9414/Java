@@ -1,3 +1,5 @@
+package HashCode;
+
 import java.util.Objects;
 
 public class Student extends Object {

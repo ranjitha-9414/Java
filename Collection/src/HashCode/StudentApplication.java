@@ -1,3 +1,5 @@
+package HashCode;
+
 import java.util.HashSet;
 
 public class StudentApplication {
