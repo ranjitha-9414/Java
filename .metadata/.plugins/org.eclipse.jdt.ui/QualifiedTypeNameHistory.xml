@@ -17,10 +17,11 @@
     <fullyQualifiedTypeName name="Addition"/>
     <fullyQualifiedTypeName name="Printing"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="Subtraction"/>
     <fullyQualifiedTypeName name="PrintNum"/>
     <fullyQualifiedTypeName name="PrintChar"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="Activity"/>
 </qualifiedTypeNameHistroy>
