@@ -21,7 +21,8 @@
     <fullyQualifiedTypeName name="Subtraction"/>
     <fullyQualifiedTypeName name="PrintNum"/>
     <fullyQualifiedTypeName name="PrintChar"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="Activity"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="TextEditor"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
