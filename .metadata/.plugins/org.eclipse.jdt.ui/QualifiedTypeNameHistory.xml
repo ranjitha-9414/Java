@@ -22,7 +22,9 @@
     <fullyQualifiedTypeName name="PrintNum"/>
     <fullyQualifiedTypeName name="PrintChar"/>
     <fullyQualifiedTypeName name="Activity"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="TextEditor"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="Hospital"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
