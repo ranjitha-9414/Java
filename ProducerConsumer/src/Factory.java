@@ -1,0 +1,14 @@
+
+public class Factory {
+
+	int x;
+	
+	public void setData(int x) {
+		this.x = x;
+		System.out.println("I have put " + x + " to Factory");
+	}
+	
+	public void getData() {
+		System.out.println("I have taken " + x + " From Factory. ");
+	}
+}
